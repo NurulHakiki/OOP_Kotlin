@@ -1,4 +1,4 @@
-package id.ac.polbeng.ziana.test_kelas
+package id.ac.polbeng.Nurul.test_kelas
 
 /*
 berikan nilai text dengan “Hi” kemudian panggillah method  greet dari
